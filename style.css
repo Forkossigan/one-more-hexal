@@ -1,0 +1,838 @@
+h1 {
+    visibility: hidden;
+    position: absolute;
+}
+main {
+    position: relative;
+    top: -11px;
+}
+.blok-header {
+    width: 1020px;
+    height: 63px;
+    background-color: #323232;
+    position: relative;
+    top: 0px;
+    left: 0px;
+
+}
+.triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 45px solid transparent;
+	border-right: 45px solid transparent;
+    border-top: 25px solid #323232;
+    position: absolute;
+    top: 71px;
+    left: 466px;
+}
+.triangle-img {
+    position: absolute;
+    top: 15px;
+    left: 478px;
+}
+
+
+.point-1 {
+    display: inline-block;
+    background:  #484c5f;
+    position: relative;
+    width: 2px;
+    height: 2px;
+    top: -36px;
+    left: 336px;
+}
+.portfolio {
+    display: inline-block;
+    color: #2eb398;
+    top: -50px;
+    left: 328px;
+    position: relative;
+    font-size: 11px;
+}
+.point-2 {
+    display: inline-block;
+    background:  #484c5f;
+    width: 2px;
+    height: 2px;
+    top: -36px;
+    left: 454px;
+    position: relative;
+}
+.about {
+    display: inline-block;
+    color: #ffffff;
+    top: -50px;
+    left: 344px;
+    position: relative;
+    font-size: 11px;
+   }
+.blog {
+    display: inline-block;
+    color: #ffffff;
+    top: -50px;
+    left: 446px;
+    position: relative;
+    font-size: 11px;
+}
+.get-in-touch {
+    display: inline-block;
+    color: #ffffff;
+    top: -50px;
+    left: 461px;
+    position: relative;
+    font-size: 11px;
+}
+a { 
+    text-decoration: none;
+}
+
+
+.line-1 {
+    width: 410px;
+    height: 1px;
+    position: relative;
+    left: 20px;
+    top: -24px;
+    border-top: 1px solid #e4e9eb;
+
+
+}
+.line-2 {
+    width: 410px;
+    height: 1px;
+    position: relative;
+    left: 570px;
+    top: -26px;
+    border-top: 1px solid #e4e9eb;
+}
+.line-3 {
+    width: 1px;
+    height: 105px;
+    position: absolute;
+    left: 88px;
+    top: 116px;
+    border-left: 1px solid #e4e9eb;
+
+
+}
+.line-4 {
+    width: 1px;
+    height: 105px;
+    position: absolute;
+    left: 917px;
+    top: 116px;
+    border-left: 1px solid #e4e9eb;
+
+
+}
+.line-5 {
+    width: 1px;
+    height: 105px;
+    position: absolute;
+    left: 88px;
+    top: 474px;
+    border-left: 1px solid #e4e9eb;
+
+
+}
+.line-6 {
+    width: 1px;
+    height: 105px;
+    position: absolute;
+    left: 917px;
+    top: 474px;
+    border-left: 1px solid #e4e9eb;
+
+
+}
+.line-7 {
+    width: 960px;
+    height: 1px;
+    position: relative;
+    left: 30px;
+    top: 704px;
+    border-top: 1px solid #e4e9eb;
+
+
+}
+.square {
+    width: 6px;
+    height: 6px;
+    background-color: #ddd2c5; 
+    display: inline-block;
+    position: relative;
+    top: 466px;
+    left:30px;
+    
+}
+.square-gray {
+    width: 6px;
+    height: 6px;
+    background-color: #8b8784; 
+    display: inline-block;
+    position: relative;
+    top: 466px;
+    left:30px;
+
+}
+.hexagon {
+    width: 182px;
+    height: 209px;
+    margin: 8px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    visibility: visible;
+    display: inline-block;
+    position: relative;
+    left: 41px;
+    top: 50px;
+   
+}
+.hexagon-layer-1 {
+    width:100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    visibility: visible;
+}
+.hexagon-layer {
+    width: 100%;
+    height: 100%;
+   
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url(img/33@1X.png);
+    visibility: visible;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.hexagon1 {
+    width: 182px;
+    height: 209px;
+    margin: 8px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    visibility: visible;
+    display: inline-block;
+    position: relative;
+    left: 41px;
+    top: 50px;
+   
+}
+.hexagon-layer-11 {
+    width:100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    visibility: visible;
+   
+}
+.hexagon-layer1 {
+    width: 100%;
+    height: 100%;
+   
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url(img/Layer31@1X.png);
+    visibility: visible;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    
+}
+.hexagon2 {
+    width: 182px;
+    height: 209px;
+    margin: 8px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    visibility: visible;
+    display: inline-block;
+    position: relative;
+    left: 41px;
+    top: 50px;
+}
+.hexagon-layer-12 {
+    width:100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    visibility: visible;
+}
+.hexagon-layer2 {
+    width: 100%;
+    height: 100%;
+   
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url(img/Layer34@1X.png);
+    visibility: visible;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.hexagon3 {
+    width: 182px;
+    height: 209px;
+    margin: 8px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    visibility: visible;
+    display: inline-block;
+    position: relative;
+    left: 41px;
+    top: 50px;
+}
+.hexagon-layer-13 {
+    width:100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    visibility: visible;
+}
+.hexagon-layer3 {
+    width: 100%;
+    height: 100%;
+   
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url(img/Layer35@1X.png);
+    visibility: visible;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.hexagon4 {
+    width: 182px;
+    height: 209px;
+    margin: 8px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    visibility: visible;
+    display: inline-block;
+    
+   
+}
+.hexagon-layer-14 {
+    width:100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    visibility: visible;
+}
+.hexagon-layer4 {
+    width: 100%;
+    height: 100%;
+   
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url(img/Layer36@1X.png);
+    visibility: visible;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.hexagon5 {
+    width: 182px;
+    height: 209px;
+    margin: 8px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    visibility: visible;
+    display: inline-block;
+   
+   
+}
+.hexagon-layer-15 {
+    width:100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    visibility: visible;
+}
+.hexagon-layer5 {
+    width: 100%;
+    height: 100%;
+   
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url(img/Layer44@1X.png);
+    visibility: visible;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.hexagon6 {
+    width: 182px;
+    height: 209px;
+    margin: 8px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    visibility: visible;
+    display: inline-block;
+    
+   
+}
+.hexagon-layer-16 {
+    width:100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    visibility: visible;
+}
+.hexagon-layer6 {
+    width: 100%;
+    height: 100%;
+   
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url(img/Layer37@1X.png);
+    visibility: visible;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.hexagon7 {
+    width: 182px;
+    height: 209px;
+    margin: 8px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    visibility: visible;
+    display: inline-block;
+    
+   
+}
+.hexagon-layer-17 {
+    width:100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    visibility: visible;
+}
+.hexagon-layer7 {
+    width: 100%;
+    height: 100%;
+   
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url(img/Layer38@1X.png);
+    visibility: visible;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.hexagon8 {
+    width: 182px;
+    height: 209px;
+    margin: 8px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    visibility: visible;
+    display: inline-block;
+   
+   
+}
+.hexagon-layer-18 {
+    width:100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    visibility: visible;
+}
+.hexagon-layer8 {
+    width: 100%;
+    height: 100%;
+   
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url(img/Layer39@1X.png);
+    visibility: visible;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.hexagon9 {
+    width: 182px;
+    height: 209px;
+    margin: 8px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    visibility: visible;
+    display: inline-block;
+    position: relative;
+    left: 101px;
+    top: -50px;
+   
+}
+.hexagon-layer-19 {
+    width:100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    visibility: visible;
+}
+.hexagon-layer9 {
+    width: 100%;
+    height: 100%;
+   
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url(img/Layer40@1X.png);
+    visibility: visible;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.hexagon10 {
+    width: 182px;
+    height: 209px;
+    margin: 8px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    visibility: visible;
+    display: inline-block;
+    position: relative;
+    left: 101px;
+    top: -50px;
+   
+}
+.hexagon-layer-110 {
+    width:100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    visibility: visible;
+}
+.hexagon-layer10 {
+    width: 100%;
+    height: 100%;
+   
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url(img/41@1X.png);
+    visibility: visible;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.hexagon11 {
+    width: 182px;
+    height: 209px;
+    margin: 8px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    visibility: visible;
+    display: inline-block;
+    position: relative;
+    left: 101px;
+    top: -50px;
+   
+}
+.hexagon-layer-111 {
+    width:100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    visibility: visible;
+}
+.hexagon-layer11 {
+    width: 100%;
+    height: 100%;
+   
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url(img/Layer43@1X.png);
+    visibility: visible;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.hexagon12 {
+    width: 182px;
+    height: 209px;
+    margin: 8px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    visibility: visible;
+    display: inline-block;
+    position: relative;
+    left: 101px;
+    top: -50px;
+   
+}
+.hexagon-layer-112 {
+    width:100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    visibility: visible;
+}
+.hexagon-layer12 {
+    width: 100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url(img/Layer42@1X.png);
+    visibility: visible;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.info {
+    width: 1020px;
+    height: 341px;
+    background-color: #2eb398;
+    margin: 28px 0px; 
+
+}
+.smit-foto {
+    width: 180px;
+    height: 206px;
+    margin: 8px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    visibility: visible;
+    display: inline-block;
+    position: relative;
+    left: 112px;
+    top: 62px;
+   
+}
+.smit-foto-layer-1 {
+    width:100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    visibility: visible;
+}
+.smit-foto-layer {
+    width: 100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url(img/Image@1X.png);
+    visibility: visible;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.smit-line {
+    height: 316px;
+    width: 1px;
+    border-right: 1px solid #219d84;
+    position: relative;
+    top: -213px;
+    left: 98px;
+}
+.smit {
+    position: relative;
+    top: -468px;
+    left: 319px;
+    background-image: url(img/Smit.png);
+    width: 209px;
+    height: 22px;
+    
+}
+.smit-info1 {
+    position: relative;
+    top: -458px;
+    left: 319px;
+    background-image: url(img/Illustrator.png);
+    width: 249px;
+    height: 17px;
+
+}
+.smit-info2 {
+    position: relative;
+    top: -443px;
+    left: 319px;
+    background-image: url(img/Lorem.png);
+    width: 581px;
+    height: 76px;
+
+}
+
+.badge1 {
+    display: inline;
+    margin: -2px;
+    padding: 0px;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: -400px;
+    left: 755px;
+    color: #000c;
+    -webkit-filter: hue-rotate(200deg);
+}
+.badge2 {
+    display: inline;
+    margin: -2px;
+    padding: 0px;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: -400px;
+    left: 755px;
+    color: #000c;
+    -webkit-filter: hue-rotate(200deg);
+}
+.badge3 {
+    display: inline;
+    margin: -2px;
+    padding: 0px;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: -400px;
+    left: 755px;
+    color: #000c;
+    -webkit-filter: hue-rotate(200deg);
+}
+.badge4 {
+    display: inline;
+    margin: -2px;
+    padding: 0px;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: -400px;
+    left: 755px;
+    color: #000c;
+    -webkit-filter: hue-rotate(200deg);
+}
+.badge5 {
+    display: inline;
+    margin: -2px;
+    padding: 0px;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: -400px;
+    left: 755px;
+    color: #000c;
+    -webkit-filter: hue-rotate(200deg);
+}
+.badge6 {
+    display: inline;
+    margin: -2px;
+    padding: 0px;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: -400px;
+    left: 755px;
+    color: #000c;
+    -webkit-filter: hue-rotate(200deg);
+}
+.box-footer {
+    width: 1020px;
+    height: 564px;
+    position: relative;
+    top: -39px;
+    background: #323232;
+}
+.box-footer-1 {
+    width: 1020px;
+    height: 43px;
+    position: relative;
+    top: -262px;
+    background: #222222;
+}
+.box-footer-line {
+    position: relative;
+    width: 960px;
+    height: 1px;
+    border-bottom: 1px solid #2b2b2b;
+    top:-589px;
+    left: 30px;
+}
+.box-footer-line-1 {
+    position: relative;
+    width: 960px;
+    height: 1px;
+    border-bottom: 1px solid #2b2b2b;
+    top:-72px;
+    left: 30px;
+}
+.text-1 {
+    position: relative;
+    top: -496px;
+    left: 96px;
+    background-color: #454545;
+    border: 0px;
+}
+.text-2 {
+    position: relative;
+    top: -438px;
+    left: -488px;
+    background-color: #454545;
+    border: 0px;
+}
+.text-3 {
+    position: relative;
+    top: -380px;
+    left: -1072px;
+    background-color: #454545;
+    border: 0px;
+}
+.textarea {
+    position: relative;
+    top: -365px;
+    left: 95px;
+    background-color: #454545;
+    border: 0px;
+
+}
+.submit {
+    position: relative;
+    top: -322px;
+    left: 0px;
+    background-color: #2eb398;
+    border: 0px;
+    color: #e0dada;
+}
+.string-1 {
+    position: relative;
+    top: -800px;
+    left: 95px;
+    width: 168px;
+    height: 22px;
+}
+.string-2 {
+    position: relative;
+    top: -798px;
+    left: 98px;
+    width: 421px;
+    height: 17px;
+}
+.string-3 {
+    position: relative;
+    top: -787px;
+    left: 696px;
+    width: 180px;
+    height: 117px;
+}
+.string-4 {
+    position: relative;
+    top: -732px;
+    left: 721px;
+    width: 121px;
+    height: 54px;
+}
+.string-5 {
+    position: relative;
+    top: -503px;
+    left: 15px;
+    width: 155px;
+    height: 12px;
+}
+.string-6 {
+    position: relative;
+    top: -802px;
+    left: 697px;
+    width: 7px;
+    height: 11px;
+}
+.string-7 {
+    position: relative;
+    top: -793px;
+    left: 696px;
+    width: 11px;
+    height: 11px;
+}
+.string-8 {
+    position: relative;
+    top: -781px;
+    left: 696px;
+    width: 13px;
+    height: 8px;
+}
+
